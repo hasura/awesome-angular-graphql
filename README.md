@@ -48,7 +48,7 @@
 
 ## Tutorials
 
-> Awesome tutorials for using GraphQL with React and React Native
+> Awesome tutorials for using GraphQL with Angular
 
 - Angular, GraphQL and Apollo
   - [Angular GraphQL Tutorial](https://www.howtographql.com/angular-apollo/0-introduction/)
@@ -100,4 +100,3 @@
 - [(Video) Lessons from 4 Years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs)
 - [2017: The year in GraphQL](https://dev-blog.apollodata.com/2017-the-year-in-graphql-124a050d04c6)
 - [Harry Wolf: Experiences with GraphQL](http://hswolff.com/blog/experiences-with-graphql/)
-- [JetRuby: Our experience with GraphQL](https://expertise.jetruby.com/our-experience-with-node-js-react-graphql-c40007ad4373)
