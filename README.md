@@ -69,7 +69,6 @@
   - [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) - Boilerplate for building Next.js apps with Apollo.
   - [Apollo Angular SSR](https://github.com/kamilkisiela/apollo-angular-ssr) - Apollo-Angular with SSR and Store Rehydration
   - [Apollo Angular](https://github.com/apollographql/apollo-angular)
-  - [Hello World Angular Apollo Boilerplate](https://github.com/WickedBrat/angular-hasura-boilerplate/tree/master/hello-world)
   - [Basic Angular Apollo Boilerplate](https://github.com/WickedBrat/angular-hasura-boilerplate/tree/master/basic)
   - [Advanced Angular Apollo Boilerplate](https://github.com/WickedBrat/angular-hasura-boilerplate/tree/master/advanced)
 
@@ -79,7 +78,6 @@
 
 - [Graphcool](https://www.graph.cool): Self-Hosted GraphQL BaaS
 - [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
-- [Scaphold](https://scaphold.io): GraphQL Backend As A Service
 - [AWS AppSync](https://aws.amazon.com/appsync/): Build data-driven apps with real-time and offline capabilities
 
 ## Articles and Videos
