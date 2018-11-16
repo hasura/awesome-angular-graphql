@@ -87,11 +87,21 @@
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 - [Thinking in Graphs](http://graphql.org/learn/thinking-in-graphs/)
 - [What are the benefits of using GraphQL and why it surpasses REST](https://blog.hellocomet.co/graphql-benefits-api/)
+- [How To Use GraphQL with Angular 2 (with Example)](https://gearheart.io/blog/how-to-use-graphql-with-angular-2-with-example/)
+- [Angular 4 + Apollo + GraphQL](https://qiita.com/alokrawat050/items/7fc8a240e047ea6c2e06)
+- [Learn how to use GraphQL with Angular using Apollo](https://malcoded.com/posts/graphql-with-angular-apollo)
+- [Using Apollo GraphQL with Angular](https://g00glen00b.be/apollo-graphql-angular)
+- [Generating Angular API clients with Apollo and GraphQL code generator](https://angular.schule/blog/2018-06-apollo-graphql-code-generator)
 
 ### Videos
 
 - [From REST to GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8)
 - [GraphQL vs Firebase](https://www.prisma.io/blog/graphql-vs-firebase-496498546142/)
+- [Apollo Client For Angular - Making Use of GraphQL](https://codingthesmartway.com/apollo-client-for-angular-making-use-of-graphql/)
+- [Deploying a Angular + Apollo app with Surge.sh - How to GraphQL](https://www.howtographql.com/angular-apollo/10-deploying/)
+- [Angular2 + GraphQL = build modern web apps with GraphQL](https://www.youtube.com/watch?v=g1ZxxpmBCnE)
+- [Modernize your Angular apps with GraphQL by Uri Goldshtein](https://www.youtube.com/watch?v=E8feZBidZcs)
+
 ## Stories
 
 > Good and bad experiences
