@@ -69,16 +69,16 @@
   - [Next.js With Apollo](https://github.com/zeit/next.js/tree/master/examples/with-apollo) - Boilerplate for building Next.js apps with Apollo.
   - [Apollo Angular SSR](https://github.com/kamilkisiela/apollo-angular-ssr) - Apollo-Angular with SSR and Store Rehydration
   - [Apollo Angular](https://github.com/apollographql/apollo-angular)
-  - [Basic Angular Apollo Boilerplate](https://github.com/WickedBrat/angular-hasura-boilerplate/tree/master/basic)
-  - [Advanced Angular Apollo Boilerplate](https://github.com/WickedBrat/angular-hasura-boilerplate/tree/master/advanced)
 
-## GraphQL BaaS Providers
+## Server Side Tools
 
 > Get a GraphQL backend for your applications using these service providers
 
-- [Graphcool](https://www.graph.cool): Self-Hosted GraphQL BaaS
-- [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
 - [AWS AppSync](https://aws.amazon.com/appsync/): Build data-driven apps with real-time and offline capabilities
+- [Graphcool](https://graph.cool): Self-Hosted GraphQL BaaS
+- [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
+- [Postgraphile](https://www.graphile.org): Rapidly build highly customisable GraphQL APIs
+- [Prisma](https://www.prisma.io/): Turn your database into a GraphQL API.
 
 ## Articles and Videos
 
