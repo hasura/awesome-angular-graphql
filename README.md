@@ -45,6 +45,7 @@
   Relay outside Chrome
 - GraphQL Workflows:
   - [GraphQL Playground](https://github.com/graphcool/graphql-playground): Powerful GraphQL IDE built on top of GraphiQL
+  - [Altair GraphQL Client](https://altair.sirmuel.design/): A beautiful feature-rich GraphQL Client for all platforms
 
 ## Tutorials
 
