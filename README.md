@@ -46,6 +46,7 @@
 - GraphQL Workflows:
   - [GraphQL Playground](https://github.com/graphcool/graphql-playground): Powerful GraphQL IDE built on top of GraphiQL
   - [Altair GraphQL Client](https://altair.sirmuel.design/): A beautiful feature-rich GraphQL Client for all platforms
+  - [GraphiQL Online](https://graphiql-online.com): An online version of GraphiQL with a configurable endpoint and headers.
 
 ## Tutorials
 
