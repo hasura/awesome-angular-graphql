@@ -9,7 +9,7 @@
 - [Developer Tools](#developer-tools)
 - [Tutorials](#tutorials)
 - [Boilerplates](#boilerplates-and-example-apps)
-- [GraphQL BaaS Providers](#graphql-baas-providers)
+- [Server Side Tools](#server-side-tools)
 - [Articles and Videos](#articles-and-videos)
 - [Stories](#stories)
 
