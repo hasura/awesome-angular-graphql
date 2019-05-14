@@ -94,6 +94,7 @@
 - [Learn how to use GraphQL with Angular using Apollo](https://malcoded.com/posts/graphql-with-angular-apollo)
 - [Using Apollo GraphQL with Angular](https://g00glen00b.be/apollo-graphql-angular)
 - [Generating Angular API clients with Apollo and GraphQL code generator](https://angular.schule/blog/2018-06-apollo-graphql-code-generator)
+- [How to Leverage GraphQL with a Headless CMS [TakeShape Tutorial]](https://snipcart.com/blog/headless-cms-graphql-takeshape-tutorial)
 
 ### Videos
 
