@@ -53,6 +53,7 @@
 > Awesome tutorials for using GraphQL with Angular
 
 - Angular, GraphQL and Apollo
+  - [Angular + Apollo Tutorial](https://learn.hasura.io/graphql/angular-apollo)
   - [Angular GraphQL Tutorial](https://www.howtographql.com/angular-apollo/0-introduction/)
   - [(Video) Apollo Client For Angular - Making Use of GraphQL](https://www.youtube.com/watch?v=dp_64aX_6jI)
   - [(Video) Apollo Angular GraphQL Optimistic UI](https://www.youtube.com/watch?v=Wc7bJ2uv694)
